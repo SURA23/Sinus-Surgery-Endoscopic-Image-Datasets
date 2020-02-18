@@ -3,7 +3,9 @@ Novel image segmentation datasets collected from endoscopic videos of sinus surg
 
 Introduction
 
-![][live-example1.jpg]
+![](live-example1.jpg)
+
+
 Download
 
 
