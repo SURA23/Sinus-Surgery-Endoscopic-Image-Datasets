@@ -11,7 +11,7 @@ Novel image segmentation datasets collected from endoscopic videos of sinus surg
 
 **Download**
 
-Coming soon!
+Coming soon! (Surgeons are checking the exclusion of inappropriate images to be online)
 
 **How to use the dataset?**
 
