@@ -13,9 +13,8 @@ Novel image segmentation datasets collected from endoscopic videos of sinus surg
 
 Link: https://digital.lib.washington.edu/researchworks/handle/1773/45396
 
-This dataset was developed at the University of Washington's BioRobotics Lab (http://brl.ee.washington.edu). It has endoscopic sinus surgery images with manual annotations for surgical instrument segmentation task. The challenging conditions of this dataset include specular reflections, blur from motion, blood, smoke and tools in shadow. 
+This dataset was developed at the University of Washington's BioRobotics Lab (http://brl.ee.washington.edu). It has endoscopic sinus surgery images with manual annotations for surgical instrument segmentation task. **The dataset was collected from endoscopic sinus surgeries performed by surgeons, which are featured by dexterous tip motion, narrow operation space and close lens-object distance.
 
-The images were extracted from 10 cadaveric surgery videos and 3 live surgery videos. The videos were collected using a Stryker 1088 HD camera system and the Karl Storz Hopkins *4mm 0° endoscope. 
 
 The dataset is arranged as follows:
 
@@ -23,9 +22,9 @@ The dataset is arranged as follows:
 
 |--- cadaver
 
-|     |---images
+      |---images
 
-|     |---labels
+      |---labels
 
 |    
 
@@ -64,70 +63,4 @@ If you find this dataset helpful in your research, please cite our papers [1] an
 
 [4] S. Lin, X. Gu, R. A. Bly, et al., "Video-based automatic and objective endoscopic sinus surgery skill assessment," in Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions, and Modeling., vol. 11315, p. 113152L, 2020. 
 
-BibTeX:
 
-[1]
-
-@article{lin2020lc,
-
-  title={LC-GAN: Image-to-image Translation Based on Generative Adversarial Network for Endoscopic Images},
-
-  author={Lin, Shan and Qin, Fangbo and Li, Yangming and Bly, Randall A and Moe, Kris S and Hannaford, Blake},
-
-  journal={arXiv preprint arXiv:2003.04949},
-
-  year={2020}
-
-}
-
-[2]
-
-@article{qin2020towards,
-
-  title={Towards Better Surgical Instrument Segmentation in Endoscopic Vision: Multi-Angle Feature Aggregation and Contour Supervision},
-
-  author={Qin, Fangbo and Lin, Shan and Li, Yangming and Bly, Randall A and Moe, Kris S and Hannaford, Blake},
-
-  journal={arXiv preprint arXiv:2002.10675},
-
-  year={2020}
-
-}
-
-[3]
-
-@inproceedings{lin2019automatic,
-
-  title={Automatic Sinus Surgery Skill Assessment Based on Instrument Segmentation and Tracking in Endoscopic Video},
-
-  author={Lin, Shan and Qin, Fangbo and Bly, Randall A and Moe, Kris S and Hannaford, Blake},
-
-  booktitle={Proc. Int. Workshop Multiscale Multimodal Med. Imag.},
-
-  pages={93--100},
-
-  year={2019},
-
-  organization={Springer}
-
-}
-
-[4]
-
-@inproceedings{lin2020video,
-
-  title={Video-based automatic and objective endoscopic sinus surgery skill assessment},
-
-  author={Lin, Shan and Gu, Xinyu and Bly, Randall A and Moe, Kris S and Hannaford, Blake},
-
-  booktitle={Medical Imaging 2020: Image-Guided Procedures, Robotic Interventions, and Modeling},
-
-  volume={11315},
-
-  pages={113152L},
-
-  year={2020},
-
-  organization={International Society for Optics and Photonics}
-
-}
