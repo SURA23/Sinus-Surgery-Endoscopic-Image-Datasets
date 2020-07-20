@@ -10,7 +10,7 @@ Novel image segmentation datasets collected from endoscopic videos of sinus surg
 
 
 
-**UW Sinus Surgery Cadaver/Live (UW-Sinus-Surgery-C/L) Dataset: **
+**UW Sinus Surgery Cadaver/Live (UW-Sinus-Surgery-C/L) Dataset:**
 
 Link: https://digital.lib.washington.edu/researchworks/handle/1773/45396
 
