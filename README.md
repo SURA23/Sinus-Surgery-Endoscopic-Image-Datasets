@@ -9,12 +9,14 @@ Novel image segmentation datasets collected from endoscopic videos of sinus surg
 ![](https://github.com/SURA23/Sinus-Surgery-Endoscopic-Image-Datasets/blob/master/cadaver-example1.jpg)![](https://github.com/SURA23/Sinus-Surgery-Endoscopic-Image-Datasets/blob/master/cadaver-example2.jpg)
 
 
-UW Sinus Surgery Cadaver/Live (UW-Sinus-Surgery-C/L) Dataset: 
-[Dataset Description]
+**UW Sinus Surgery Cadaver/Live (UW-Sinus-Surgery-C/L) Dataset: **
+
+Link: https://digital.lib.washington.edu/researchworks/handle/1773/45396
 
 This dataset was developed at the University of Washington's BioRobotics Lab (http://brl.ee.washington.edu). It has endoscopic sinus surgery images with manual annotations for surgical instrument segmentation task. The challenging conditions of this dataset include specular reflections, blur from motion, blood, smoke and tools in shadow. 
 
 The images were extracted from 10 cadaveric surgery videos and 3 live surgery videos. The videos were collected using a Stryker 1088 HD camera system and the Karl Storz Hopkins *4mm 0° endoscope. 
+
 The dataset is arranged as follows:
 
 |--- readme.txt
