@@ -57,11 +57,12 @@ ii) Sinus-Surgery-L dataset: fold 1: 1st video; fold 2: 2nd video; fold 3: 3rd v
 If you are trying to follow the experiments in [2], please contact {fbqin '_at_' uw.edu} or {qinfangbo2013 '_at_' ia.ac.cn} to request the datasets which had already been organized to 3-fold.
 
 **Contact**
-(shanl3 '_at_'uw.edu; fbqin '_at_' uw.edu; qinfangbo2013 '_at_' ia.ac.cn) 
+
+Emails via {shanl3 '_at_'uw.edu; fbqin '_at_' uw.edu; qinfangbo2013 '_at_' ia.ac.cn}
 For any suggestions or corrections, please contact us. 
 If you find this dataset helpful in your research, please cite our papers [1] and [2]. 
 
-[References]
+**References**
 
 [1] S. Lin, F. Qin, et al., “LC-GAN: Image-to-image translation based on generative adversarial network for endoscopic images,” arXiv preprint arXiv:2003.04949, 2020. (accepted by IROS 2020)
 
