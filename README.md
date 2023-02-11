@@ -58,9 +58,7 @@ If you are trying to follow the experiments in [2], please contact {fbqin '_at_'
 
 **Contact**
 
-Emails via {shanl3 '_at_'uw.edu; fbqin '_at_' uw.edu; qinfangbo2013 '_at_' ia.ac.cn}
-
-For any suggestions or corrections, please contact us. 
+For any questions and suggestions, please contact us via shl102@eng.ucsd.edu and qinfangbo2013@ia.ac.cn
 If you find this dataset helpful in your research, please cite our papers [1] and [2]. 
 
 **References**
